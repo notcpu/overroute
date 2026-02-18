@@ -2,8 +2,6 @@
 
 **OverRoute** is a DNS-level firewall and route manipulator built to block MDM servers on demand — giving the user full control over a locked-down iPad environment.
 
-> "They gave me a profile. I gave them silence."
-
 ---
 
 # READ FIRST!
@@ -85,9 +83,4 @@ Install it → blocks MDM routing.
 ## ⚠️ Disclaimer
 
 This tool is for **educational purposes only**. It should not be used to bypass institutional security policies without permission.  
-Use responsibly. Stay ethical. Be like Elliot, not like fsociety’s less-stable cousin.
-
----
-
-## VX Labs © 2025  
-Founder: 0vx/VXSec
+Use responsibly.
